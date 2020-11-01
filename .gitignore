@@ -79,3 +79,7 @@ dist
 
 # IDE
 .idea
+
+# storybook
+.nuxt-storybook
+storybook-static
