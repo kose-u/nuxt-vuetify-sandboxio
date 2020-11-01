@@ -14,8 +14,16 @@
   "dependencies": {
     "@nuxt/http": "^0.5.0",
     "@nuxtjs/vuetify": "1.11.2",
+    "@storybook/addon-actions": "6.0.28",
+    "@storybook/addon-knobs": "6.0.28",
+    "@storybook/addon-links": "6.0.28",
+    "@storybook/addon-notes": "5.3.21",
+    "@storybook/addon-viewport": "6.0.28",
+    "@storybook/addons": "6.0.28",
+    "@storybook/vue": "6.0.28",
     "nuxt": "^2.12.2",
-    "reqlim": "^0.0.0"
+    "reqlim": "^0.0.0",
+    "storybook-addon-vue-info": "1.4.2"
   },
   "keywords": []
 }
